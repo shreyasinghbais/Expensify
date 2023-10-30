@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expensify/static/css/main.3aabfe77.css",
+    "main.js": "/Expensify/static/js/main.136c8eca.js",
+    "static/media/expensify-logo.png": "/Expensify/static/media/expensify-logo.46eb41be0f2fd44e6d46.png",
+    "static/media/bgpic.jpeg": "/Expensify/static/media/bgpic.89b1938ddc69791344f6.jpeg",
+    "index.html": "/Expensify/index.html",
+    "main.3aabfe77.css.map": "/Expensify/static/css/main.3aabfe77.css.map",
+    "main.136c8eca.js.map": "/Expensify/static/js/main.136c8eca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aabfe77.css",
+    "static/js/main.136c8eca.js"
+  ]
+}
